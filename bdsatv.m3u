@@ -31,3 +31,27 @@ http://xtv.ooo:8080/live/3090/3090/167573.m3u8
 http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist_w489604224_b596000.m3u8
 #EXTINF:-1 tvg-logo=” ” group-title=”SPORTS”, STAR-SPORTS
 https://bbm.pogocast.xyz:8059/view/hls/P0AXt6xa5myWbFrXVff5qA/1699361531/star1in.m3u8
+#EXTINF:-1 tvg-logo=”https://i.postimg.cc/ZRSKCpqc/Ptv.jpg” group-title=”SPORTS”,PTV
+http://tv.dugdugilive.com:8080/0ne$ky23/PTV/index.m3u8
+#EXTINF:-1 tvg-logo=”https://i.postimg.cc/ZRSKCpqc/Ptv.jpg” group-title=”SPORTS”,PTV
+http://xtv.ooo:8080/live/3090/3090/167573.m3u8
+#EXTINF:-1 tvg-logo=”https://i.postimg.cc/ZRSKCpqc/Ptv.jpg” group-title=”SPORTS”,PTV
+https://cdn.0123stream.com/PTVSports/tracks-v1a1/mono.m3u8?token=bdsatv
+#EXTINF:-1 tvg-logo=”https://i.postimg.cc/1tkKDfcb/h1-1.jpg” group-title=”MOVIE”, SONY MAX
+http://tv.dugdugilive.com:8080/0ne$ky23/SonyMax/index.m3u8
+#EXTINF:-1 tvg-logo=”https://i.postimg.cc/1tkKDfcb/h1-1.jpg” group-title=”MOVIE”, SONY MAX
+https://goa.prothomalo.lol/app/live/476/Sony_Max_HD/index.m3u8
+#EXTINF:-1 tvg-logo=”https://i.postimg.cc/1tkKDfcb/h1-1.jpg” group-title=”MOVIE”, SONY MAX
+http://watchindia.net:8880/live/dharm23/qVir1fHdBn/788.m3u8
+#EXTINF:-1 tvg-logo=”https://i.postimg.cc/1tkKDfcb/h1-1.jpg” group-title=”MOVIE”, SONY MAX
+http://170.254.18.107/SONYMAX/index.m3u8
+#EXTINF:-1 tvg-logo=”https://i.postimg.cc/1tkKDfcb/h1-1.jpg” group-title=”MOVIE”, SONY MAX 2
+https://goa.prothomalo.lol/app/live/483/Sony_MAX2/index.m3u8
+#EXTINF:-1 tvg-logo=”https://i.postimg.cc/8zg03y3b/Zee-Cinema-New-Logo.png” group-title=”MOVIE”, ZEE CINEMA
+http://tv.dugdugilive.com:8080/0ne$ky23/ZeeCinema/index.m3u8
+#EXTINF:-1 tvg-logo=”https://i.postimg.cc/8zg03y3b/Zee-Cinema-New-Logo.png” group-title=”MOVIE”, ZEE CINEMA
+https://goa.prothomalo.lol/app/live/165/Zee_Cinema_HD/index.m3u8
+#EXTINF:-1 tvg-logo=”https://en.wikipedia.org/wiki/File:Colors-cineplex.png” group-title=”MOVIE”, Colors Cineplex
+https://goa.prothomalo.lol/app/live/1477/Color_Cineplex_HD/index.m3u8
+#EXTINF:-1 tvg-logo=”https://en.wikipedia.org/wiki/File:Colors-cineplex.png” group-title=”MOVIE”, Colors Cineplex
+chrome-extension://gijhpnmjcpbddpedmmdihijogkkejfgj/player.html#https://goa.prothomalo.lol/app/live/1450/Rishtey_Cineplex/index.m3u8
