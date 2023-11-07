@@ -1,25 +1,33 @@
 #EXTM3U
 
-#MHDTV
-
-#EXTINF:-1,Colors_HD
-https://prod-ent-live-gm.jiocinema.com/bpk-tv/Colors_HD_voot_MOB/Fallback/Colors_HD_voot_MOB-audio_98835_hin=98800-video=1173600.m3u8
-#EXTINF:-1,Colors_Cineplex
-https://prod-ent-live-gm.jiocinema.com/bpk-tv/Colors_Cineplex_voot_MOB/Fallback/Colors_Cineplex_voot_MOB-audio_98835_eng=98800-video=3110800.m3u8
-#EXTINF:-1,Colors_Rishtey
-https://prod-ent-live-gm.jiocinema.com/bpk-tv/Colors_Rishtey_voot_MOB/Fallback/Colors_Rishtey_voot_MOB-audio_98835_eng=98800-video=2600000.m3u8
-#EXTINF:-1,Rishtey_Cineplex
-https://prod-ent-live-gm.jiocinema.com/bpk-tv/Rishtey_Cineplex_voot_MOB/Fallback/Rishtey_Cineplex_voot_MOB-audio_98835_eng=98800-video=2600000.m3u8
-#EXTINF:-1,Colors_Cineplex
-https://prod-ent-live-gm.jiocinema.com/bpk-tv/Colors_Cineplex_Bollywood_voot_MOB/Fallback/Colors_Cineplex_Bollywood_voot_MOB-audio_98835_eng=98800-video=2600000.m3u8
-#EXTINF:-1,Andtv
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andtv/default/andtv-audio_208482_und=208000-video=877600.m3u8
-#EXTINF:-1,andtvhd
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andtvhd/default/andtvhd-audio_208482_und=208000-video=2137600.m3u8
-#EXTINF:-1,Andpictureshd
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andpictureshd/default/andpictureshd-audio_208482_und=208000-video=2137600.m3u8
-#EXTINF:-1,Andpictures
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andpictures/default/andpictures-audio_208482_und=208000-video=877600.m3u8
-#EXTINF:-1,Plex_SonyKAL
-https://90f1f5904d4043d78fa97be33e8304b4.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_SonyKAL/67f44473-c0ad-4815-95dc-dcd4cae00c7a/5.m3u8
-
+#EXTINF:-1 tvg-logo=”https://i.postimg.cc/W3ZZgP0c/T-Sports-logo.png” group-title=”SPORTS”, T-Sports
+http://tv.dugdugilive.com:8080/0ne$ky23/TSports-Live/index.m3u8
+#EXTINF:-1 tvg-logo=”https://i.postimg.cc/W3ZZgP0c/T-Sports-logo.png” group-title=”SPORTS”, T-Sports
+http://chanel.dekhaott.com/ICCWORLDCUP/index.fmp4.m3u8
+#EXTINF:-1 tvg-logo=”https://i.postimg.cc/W3ZZgP0c/T-Sports-logo.png” group-title=”SPORTS”, T-Sports
+http://10.10.10.2/live/fnffeed0000/index.m3u8
+#EXTINF:-1 tvg-logo=”https://i.postimg.cc/W3ZZgP0c/T-Sports-logo.png” group-title=”SPORTS”, T-Sports
+#EXTINF:-1 tvg-logo=” ” group-title=”SPORTS”, T-Sports
+http://10.10.10.2/live/fnffeed1002/index.m3u8
+#EXTINF:-1 tvg-logo=” ” group-title=”SPORTS”, T-Sports
+https://cdn.0123stream.com/TSportsHD/tracks-v1a1/mono.m3u8?token=bdsatv
+#EXTINF:-1 tvg-logo=” ” group-title=”SPORTS”, T-Sports
+https://cdn.sajeeb.online/T-Sports-HD/index.fmp4.m3u8
+#EXTINF:-1 tvg-logo=” ” group-title=”SPORTS”, T-Sports
+http://chanel.dekhaott.com/Gazi-TV/index.fmp4.m3u8
+#EXTINF:-1 tvg-logo=” ” group-title=”SPORTS”, Gtv
+https://cdn.sajeeb.online/GTV/index.fmp4.m3u8
+#EXTINF:-1 tvg-logo=” ” group-title=”SPORTS”, GTV
+https://cdn.0123stream.com//GaziTV/tracks-v1a1/mono.m3u8?token=bdsatv
+#EXTINF:-1 tvg-logo=”https://i.postimg.cc/NMYTHVJL/GTVBangladesh-Logo.png” group-title=”SPORTS”, GTV
+http://tv.dugdugilive.com:8080/0ne$ky23/GaziTV/index.m3u8
+#EXTINF:-1 tvg-logo=”https://i.postimg.cc/NMYTHVJL/GTVBangladesh-Logo.png” group-title=”SPORTS”, GTV SD
+http://chanel.dekhaott.com/Gazi-TV/index.fmp4.m3u8
+#EXTINF:-1 tvg-logo=” ” group-title=”SPORTS”, STAR-SPORTS
+http://tv.dugdugilive.com:8080/0ne$ky23/StarSports22/index.m3u8
+#EXTINF:-1 tvg-logo=” ” group-title=”SPORTS”, STAR-SPORTS
+http://xtv.ooo:8080/live/3090/3090/167573.m3u8
+#EXTINF:-1 tvg-logo=” ” group-title=”SPORTS”, STAR-SPORTS
+http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist_w489604224_b596000.m3u8
+#EXTINF:-1 tvg-logo=” ” group-title=”SPORTS”, STAR-SPORTS
+http://xtv.ooo:8080/live/25790/25790/167573.m3u8
